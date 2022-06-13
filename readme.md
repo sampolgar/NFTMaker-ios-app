@@ -1,11 +1,19 @@
-1. finish buildspace tutorial on minting NFT
-2. change it into Fantom
-3. build app with 
-- take photo
-- mint as nft
-- - add name
-- - add attribute
-- view all minted NFT
+# Create iOS app to mint NFT's from images
 
-Notes
+## background
+- [ ] Finish buildspace tutorial on minting NFT https://buildspace.so/p/mint-nft-collection
+- [ ] Change from Ethereum to Fantom
+
+## iOS app
+- [ ] iOS app to take photos
+- [ ] iOS app to select photos
+- [ ] iOS app to add image/NFT name
+- [ ] iOS app to add image/NFT attributes
+- [ ] iOS app to mint NFT
+- [ ] iOS app to view single NFT
+- [ ] iOS app to view all NFTs minted by me
+- [ ] iOS app to view all NFTs minted by all the contract
+
+
+## Notes
 https://ethereum.org/en/developers/docs/intro-to-ethereum/

@@ -2,7 +2,7 @@
 
 ## background
 - [ ] Finish buildspace tutorial on minting NFT https://buildspace.so/p/mint-nft-collection
-- [ ] Change from Ethereum to Fantom
+
 
 ## iOS app
 - [ ] iOS app to take photos
@@ -14,6 +14,10 @@
 - [ ] iOS app to view all NFTs minted by me
 - [ ] iOS app to view all NFTs minted by all the contract
 
+## Parking
+- [ ] Change from Ethereum to Fantom
+
 
 ## Notes
-https://ethereum.org/en/developers/docs/intro-to-ethereum/
+- https://ethereum.org/en/developers/docs/intro-to-ethereum/
+- metadata standards: https://docs.opensea.io/docs/metadata-standards
